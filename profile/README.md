@@ -1,6 +1,6 @@
 # Welcome to Imaginary Presence
 
-![Imaginary Presence Logo](URL-to-logo-if-any.png)
+
 
 Welcome to **Imaginary Presence**, a hub of innovative projects aimed at creating immersive, imaginative experiences through technology. We're a collective of creatives, developers, writers, and dreamers dedicated to building the digital realms of tomorrow.
 
