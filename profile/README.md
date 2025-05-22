@@ -3,7 +3,7 @@
 
 **Live into the questions of your life.**
 
-**Imaginary Presence** is a multi-platform journaling and reflection app that helps individuals explore meaning through personal writing, curated readings, and dialogue with a personalized AI life coach. Drawing on philosophical traditions like Buddhism, Zen, and existentialism—as well as cognitive science and literary aesthetics—it offers a quiet space for intentional living in the digital age.
+**Imaginary Presence** is an app designed to help users cultivate meaning in their lives through philosophical inquiry, reading-based prompts, and dialogue with a personalized AI life coach. It blends literary aesthetics, Buddhist and Zen sensibilities, and insights from modern cognitive science to support a practice of intentional living. The app will be available across multiple platforms.
 
 ---
 
