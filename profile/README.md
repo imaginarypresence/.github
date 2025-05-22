@@ -1,6 +1,3 @@
-Here’s a draft for the **GitHub organization overview page** for *Imaginary Presence*. It communicates the project’s vision, philosophical grounding, and technical roadmap clearly for contributors, collaborators, or future open-source development:
-
----
 
 ## 🌀 Imaginary Presence
 
